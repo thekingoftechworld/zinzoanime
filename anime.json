@@ -1,0 +1,13 @@
+{
+  "telegram_link": "https://t.me/anime_request_chatgroup",
+  "animes": [
+    {
+      "name": "Naruto Shippuden",
+      "url": "https://t.me/yourchannel/1"
+    },
+    {
+      "name": "One Piece",
+      "url": "https://t.me/yourchannel/2"
+    }
+  ]
+}
